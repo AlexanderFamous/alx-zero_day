@@ -1,1 +1,1 @@
-My first readme
+Laerning to use git pull
